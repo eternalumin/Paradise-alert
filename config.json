@@ -1,9 +1,12 @@
 {
-      "detector": "venue_date",
-      "movie": "Resident Evil",
-      "requested_date": "20260921",
-     "venue_codes": ["PSMP","CPCM","CGSM"],
-     "url_template": "https://in.bookmyshow.com/movies/mangaluru-mangalore/resident-evil/buytickets/ET00498183/{date}",
-     "min_references": 10
+  "detector": "venue_date",
+  "movie": "The Paradise",
+  "requested_date": "20260923",
+  "venue_codes": [
+    "PSMP",
+    "CPCM",
+    "CGSM"
+  ],
+  "url_template": "https://in.bookmyshow.com/movies/mangaluru-mangalore/the-paradise/buytickets/ET00436621/{date}",
+  "min_references": 10   
 }
-
