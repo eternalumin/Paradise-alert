@@ -1,9 +1,30 @@
 {
-  "detector": "venue_date",
-  "movie": "Spider-Man: Brand New Day",
-  "requested_date": "20260730",
-  "venue_code": "INTO",
-  "venue_label": "INOX: The Marina Mall, OMR",
-  "url_template": "https://in.bookmyshow.com/movies/chennai/spiderman-brand-new-day/buytickets/ET00502600/{date}",
-  "min_references": 10
+  "detectors": [
+    {
+      "detector": "venue_date",
+      "movie": "Resident Evil",
+      "requested_date": "20260921",
+      "venue_code": "PSMP",
+      "url_template": "https://in.bookmyshow.com/movies/mangaluru-mangalore/resident-evil/buytickets/ET00498183/{date}"
+    },
+    {
+      "detector": "venue_date",
+      "movie": "Resident Evil",
+      "requested_date": "20260921",
+      "venue_code": "CPCM",
+      "url_template": "https://in.bookmyshow.com/movies/mangaluru-mangalore/resident-evil/buytickets/ET00498183/{date}"
+    },
+    {
+      "detector": "venue_date",
+      "movie": "Resident Evil",
+      "requested_date": "20260921",
+      "venue_code": "CGSM",
+      "url_template": "https://in.bookmyshow.com/movies/mangaluru-mangalore/resident-evil/buytickets/ET00498183/{date}"
+    }
+  ],
+  "venue_codes": [
+    "PSMP",
+    "CPCM",
+    "CGSM"
+  ]
 }
