@@ -5,21 +5,21 @@
       "movie": "Resident Evil",
       "requested_date": "20260921",
       "venue_code": "PSMP",
-      "url_template": "https://in.bookmyshow.com/movies/mangaluru-mangalore/resident-evil/buytickets/ET00498183/{date}"
+      "target_url": "https://in.bookmyshow.com/movies/mangaluru-mangalore/resident-evil/buytickets/ET00498183/{date}"
     },
     {
       "detector": "venue_date",
       "movie": "Resident Evil",
       "requested_date": "20260921",
       "venue_code": "CPCM",
-      "url_template": "https://in.bookmyshow.com/movies/mangaluru-mangalore/resident-evil/buytickets/ET00498183/{date}"
+      "target_url": "https://in.bookmyshow.com/movies/mangaluru-mangalore/resident-evil/buytickets/ET00498183/{date}"
     },
     {
       "detector": "venue_date",
       "movie": "Resident Evil",
       "requested_date": "20260921",
       "venue_code": "CGSM",
-      "url_template": "https://in.bookmyshow.com/movies/mangaluru-mangalore/resident-evil/buytickets/ET00498183/{date}"
+      "target_url": "https://in.bookmyshow.com/movies/mangaluru-mangalore/resident-evil/buytickets/ET00498183/{date}"
     }
   ],
   "venue_codes": [
